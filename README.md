@@ -13,10 +13,9 @@ Both static and dynamic scraping is used.
 -Insider.in ✓
 -Townscript Events ✓ --dynamic scraping
 
-2. Export the data in local file (text/csv/Excel)
-3. Take City as Input from user and show events from that city
-4. Take User Budget input from user and show events within the budget
-5. Make simple GUI
+2. Clean and Export the data in local file (text/csv/Excel) ✓
+3. Take City as Input from user and show events from that city ✓
+4. Make simple GUI
 
 #Dependencies
 
