@@ -17,7 +17,15 @@ Both static and dynamic scraping is used.
 3. Take City as Input from user and show events from that city ✓
 4. Make simple GUI
 
-#Dependencies
+# Program Flow
+1. Take input city from User
+2. Goes to 4 event related websites and apply filter of city
+3. Searches for free events
+4. Grab all events data and store into temp csv files
+5. Clean/Combine the data and export it to Excel file
+6. Cleanup all temp files
+
+# Dependencies
 
 1. requests
 `pip install requests`
